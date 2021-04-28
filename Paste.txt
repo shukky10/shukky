@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>My Assistance</title>
+<meta charset="utf-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1" />
+</head>
+
+<body>
+ <section Id="article 1">
+
+family is a group of one or more parent and their children living together as a unit one authors define family as all the descendent or a common ancester. A family is a group of people related by consanguinity.family is a group of one or more parent and their children living together as a unit one authors define family as all the descendent or a common ancester. A family is a group of people related by consanguinity.
+family is a group of one or more parent and their children living together as a unit one authors define family as all the descendent or a common ancester. A family is a group of people related by consanguinit
+</section>
+<a href="#article 2">go to article 2</a>
+
+<section id="article 2">
+family is a group of one or more parent and their children living together as a unit one authors define family as all the descendent or a common ancester. A family is a group of people related by consanguinity.family is a group of one or more parent and their children living together as a unit one authors define family as all the descendent or a common ancester. A family is a group of people related by consanguinity.family is a group of one or more parent and their children living together as a unit one authors define family as all the descendent or a common ancester. A family is a group of people related by consanguinity.
+</section>
+<a href="#article 1">Go to article 1</a>
+
+</body>
+
+</html>
